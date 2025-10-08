@@ -69,7 +69,9 @@ public class GT4500 implements SpaceShip {
 
         firingSuccess = primarySuccess || secondarySuccess;
         break;
-    }
+    } 
+
+    //jo megoldas 
 
     return firingSuccess;
   }
